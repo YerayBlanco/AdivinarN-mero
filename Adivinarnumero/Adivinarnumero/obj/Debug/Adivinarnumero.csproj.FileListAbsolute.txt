@@ -1,0 +1,7 @@
+C:\Users\yeray.blanco.aldao\source\repos\Adivinarnumero\Adivinarnumero\bin\Debug\Adivinarnumero.exe.config
+C:\Users\yeray.blanco.aldao\source\repos\Adivinarnumero\Adivinarnumero\bin\Debug\Adivinarnumero.exe
+C:\Users\yeray.blanco.aldao\source\repos\Adivinarnumero\Adivinarnumero\bin\Debug\Adivinarnumero.pdb
+C:\Users\yeray.blanco.aldao\source\repos\Adivinarnumero\Adivinarnumero\obj\Debug\Adivinarnumero.csproj.AssemblyReference.cache
+C:\Users\yeray.blanco.aldao\source\repos\Adivinarnumero\Adivinarnumero\obj\Debug\Adivinarnumero.csproj.CoreCompileInputs.cache
+C:\Users\yeray.blanco.aldao\source\repos\Adivinarnumero\Adivinarnumero\obj\Debug\Adivinarnumero.exe
+C:\Users\yeray.blanco.aldao\source\repos\Adivinarnumero\Adivinarnumero\obj\Debug\Adivinarnumero.pdb
